@@ -1,0 +1,21 @@
+[
+    { "id": 1, "name": "Neo", "profile_picture_url": "https://i.pravatar.cc/300?u=1", "has_stories": true },
+    { "id": 2, "name": "Trinity", "profile_picture_url": "https://i.pravatar.cc/300?u=2", "has_stories": true },
+    { "id": 3, "name": "Morpheus", "profile_picture_url": "https://i.pravatar.cc/300?u=3", "has_stories": false },
+    { "id": 4, "name": "Smith", "profile_picture_url": "https://i.pravatar.cc/300?u=4", "has_stories": true },
+    { "id": 5, "name": "Oracle", "profile_picture_url": "https://i.pravatar.cc/300?u=5", "has_stories": true },
+    { "id": 6, "name": "Cypher", "profile_picture_url": "https://i.pravatar.cc/300?u=6", "has_stories": false },
+    { "id": 7, "name": "Niobe", "profile_picture_url": "https://i.pravatar.cc/300?u=7", "has_stories": false },
+    { "id": 8, "name": "Dozer", "profile_picture_url": "https://i.pravatar.cc/300?u=8", "has_stories": false },
+    { "id": 9, "name": "Switch", "profile_picture_url": "https://i.pravatar.cc/300?u=9", "has_stories": false },
+    { "id": 10, "name": "Tank", "profile_picture_url": "https://i.pravatar.cc/300?u=10", "has_stories": true },
+    { "id": 11, "name": "Seraph", "profile_picture_url": "https://i.pravatar.cc/300?u=11", "has_stories": false },
+    { "id": 12, "name": "Sati", "profile_picture_url": "https://i.pravatar.cc/300?u=12", "has_stories": true },
+    { "id": 13, "name": "Merovingian", "profile_picture_url": "https://i.pravatar.cc/300?u=13", "has_stories": false },
+    { "id": 14, "name": "Persephone", "profile_picture_url": "https://i.pravatar.cc/300?u=14", "has_stories": false },
+    { "id": 15, "name": "Ghost", "profile_picture_url": "https://i.pravatar.cc/300?u=15", "has_stories": false },
+    { "id": 16, "name": "Lock", "profile_picture_url": "https://i.pravatar.cc/300?u=16", "has_stories": false },
+    { "id": 17, "name": "Rama", "profile_picture_url": "https://i.pravatar.cc/300?u=17", "has_stories": false },
+    { "id": 18, "name": "Bane", "profile_picture_url": "https://i.pravatar.cc/300?u=18", "has_stories": false },
+    { "id": 19, "name": "The Keymaker", "profile_picture_url": "https://i.pravatar.cc/300?u=19", "has_stories": false }
+]
